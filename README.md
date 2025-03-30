@@ -1,5 +1,5 @@
 # 💫 About Me:
-i do random shit.
+i do random shit.<br/>
 (my repos are private, so dont mind the snake wandering😭)
 
 ## 🌐 Socials:
