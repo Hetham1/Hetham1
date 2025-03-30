@@ -1,6 +1,6 @@
 # 💫 About Me:
 i do random shit.
-
+(my repos are private, so dont mind the snake wandering😭)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/whoishesammorady/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hesam-morady-6a6539200/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Hesam-morady) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hesammoradizadeh2002@gmail.com) 
